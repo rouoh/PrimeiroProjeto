@@ -7,6 +7,7 @@ import java.util.Scanner;
  * @author Rodrigo Doná Tavares
  */
 public class FirstProj {
+    // TODO estipular uma nota máxima e uma mínima
     /**
      * Média necessária
      */
