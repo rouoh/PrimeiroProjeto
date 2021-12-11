@@ -8,8 +8,6 @@ Projeto Controle de Notas
 Caso o usuário digitasse uma letra no campo de entrada de dados, `try`, `catch` e `while` eram os métodos responsáveis por manter o programa em loop, ocultar a mensagem de erro e solicitar novamente os dados de entrada.
 
 **Melhorias a fazer:**
->Arrumar os comentários (colocá-los por cima do código e não ao lado);
->
 >Estipular uma nota máxima e uma nota mínima;
 > 
 >Encurtá-lo usando métodos e deixá-lo menos repetitivo.
